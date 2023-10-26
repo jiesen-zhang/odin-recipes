@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.recipe-item {
+  margin: 20px 20px;
+}
